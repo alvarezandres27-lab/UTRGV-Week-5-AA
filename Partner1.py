@@ -2,13 +2,11 @@
 #Alyssa Castellano Partner 2
 # 1. Print a welcome message
 print("Hello and welcome to the file")
-# Print https://www.w3schools.com/python/ref_func_print.asp
 
 # 2. Create a variable with your name
 name = "Andres" 
 # 3. Print the name
 print(name)
-# Variables https://www.w3schools.com/python/gloss_python_variable_output.asp
 
 # 4. Create a variable with your age
 
@@ -18,7 +16,6 @@ print(age)
 # 6. Ask the user for their favorite color
 print("What is your favorite Color?")
 color=input()
-
 
 # 7. Print a sentence using the color
 
@@ -40,14 +37,20 @@ print(result)
 if age >=18:
     # 12. Print message if true
     print("Congrats, your an adult!")
-    #Conditions and if statements https://www.w3schools.com/python/python_conditions.asp
+
 else:
     # 13. Otherwise print another message
     # 14. Print message if false
-        print("Your a kid, Please Leave!")
+        print("Your a kid, Please Leave the document!")
 
 # 15. Print a goodbye message
 print("Goodbye for now and well you see you.")
+
+#All sources that were seen to help make the code are below.
+# Print https://www.w3schools.com/python/ref_func_print.asp
+# Variables https://www.w3schools.com/python/gloss_python_variable_output.asp
+# Conditions and if statements https://www.w3schools.com/python/python_conditions.asp
+# Inputs https://www.w3schools.com/python/ref_func_input.asp
 
 
 
