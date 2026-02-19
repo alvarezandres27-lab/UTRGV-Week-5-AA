@@ -2,11 +2,10 @@
 #Alyssa Castellano Partner 2
 # Ask the user to enter 5 numbers and store them in a list
 print("Please enter 5 numbers: ")
-list=input()
+mynumlist = [input()]
 
 # Print the list in reverse order
-
-print(list.reverse())
+mynumlist.reverse()
 
 # Calculate the average of the numbers in the list
 
@@ -35,3 +34,4 @@ print(list.reverse())
 # Create a menu that lets the user choose which task to run
 
 #Reverse https://www.w3schools.com/python/ref_list_reverse.asp
+#tried to find proper sources but not that many involved the reverse input

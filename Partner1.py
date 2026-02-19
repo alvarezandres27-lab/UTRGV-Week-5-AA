@@ -37,14 +37,14 @@ result = num1 + num2
 print(result)
 
 # 11. Check if age is greater than 18
-if age>=18:
+if age >=18:
+    # 12. Print message if true
     print("Congrats, your an adult!")
+    #Conditions and if statements https://www.w3schools.com/python/python_conditions.asp
 else:
-        print("Your a child, get outta here!")
-# 12. Print message if true
-# 13. Otherwise print another message
-# 14. Print message if false
-   
+    # 13. Otherwise print another message
+    # 14. Print message if false
+        print("Your a kid, Please Leave!")
 
 # 15. Print a goodbye message
 print("Goodbye for now and well you see you.")
